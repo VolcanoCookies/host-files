@@ -1,0 +1,33 @@
+{
+	"projects": [{
+		"title": "This page",
+		"description": "Projects are loaded from the projects.json file on the github repo. Content is then added using jQuery and the projects.js script.",
+		"image": "https://cdn5.myket.ir/image/myket/icon/com.decad3nce.hoverbrowser.png",
+		"link": "https://google.com/"
+	}, {
+		"title": "Project #2",
+		"description": "Description #2",
+		"image": "images/error.png",
+		"link": "https://google.com/"
+	}, {
+		"title": "Project #3",
+		"description": "Description #3",
+		"image": "images/error.png",
+		"link": "https://google.com/"
+	}, {
+		"title": "Project #4",
+		"description": "Description #4",
+		"image": "images/error.png",
+		"link": "https://google.com/"
+	}, {
+		"title": "Project #5",
+		"description": "Description #5",
+		"image": "images/error.png",
+		"link": "https://google.com/"
+	}, {
+		"title": "Project #6",
+		"description": "Description #6",
+		"image": "images/error.png",
+		"link": "https://google.com/"
+	}]
+}
